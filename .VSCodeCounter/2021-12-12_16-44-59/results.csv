@@ -1,0 +1,12 @@
+"filename", "language", "C++", "Markdown", "comment", "blank", "total"
+"d:\VSCodeCppProject\Project1\one.cpp", "C++", 34, 0, 0, 6, 40
+"d:\VSCodeCppProject\Project2\two.cpp", "C++", 42, 0, 0, 10, 52
+"d:\VSCodeCppProject\Project3\three.cpp", "C++", 33, 0, 2, 6, 41
+"d:\VSCodeCppProject\Project4\four.cpp", "C++", 58, 0, 2, 11, 71
+"d:\VSCodeCppProject\Project5\five.cpp", "C++", 22, 0, 0, 5, 27
+"d:\VSCodeCppProject\Project6\six.cpp", "C++", 47, 0, 9, 7, 63
+"d:\VSCodeCppProject\Project7\seven.cpp", "C++", 17, 0, 1, 1, 19
+"d:\VSCodeCppProject\Project8\eight.cpp", "C++", 54, 0, 3, 8, 65
+"d:\VSCodeCppProject\README.md", "Markdown", 0, 1, 0, 0, 1
+"d:\VSCodeCppProject\helloworld.cpp", "C++", 24, 0, 0, 3, 27
+"Total", "-", 331, 1, 17, 57, 406
