@@ -7,7 +7,7 @@ class A
 public:
     A(string str);
     void indexshow() const;        //下标遍历
-    void alter(char c, int index); //根据下标修改
+    void alter(int index, char c); //根据下标修改
 
 private:
     string m_str;
@@ -25,7 +25,7 @@ void A::indexshow() const
     cout << endl;
 }
 
-void A::alter(char c, int index)
+void A::alter(int index, char c)
 {
     m_str[index] = c;
 }
@@ -47,7 +47,7 @@ int main()
 
     A arr("abcdefg");
     arr.indexshow();
-    arr.alter('c', 0);
+    arr.alter(0, 'c');
     arr.indexshow();
     return 0;
 }
