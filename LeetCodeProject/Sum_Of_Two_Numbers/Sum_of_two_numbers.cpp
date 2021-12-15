@@ -12,7 +12,7 @@ int *twoSum(int *nums, int numsSize, int target, int *returnSize)
                 int *ret = (int *)malloc(sizeof(int) * 2);
                 ret[0] = i, ret[1] = j;
                 *returnSize = 2;
-                return ret;
+                return ret;  //return 后面的代码不执行
             }
         }
     }
