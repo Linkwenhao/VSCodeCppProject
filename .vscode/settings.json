@@ -4,6 +4,7 @@
         "string": "cpp",
         "iostream": "cpp",
         "random": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "reverseMore.C": "cpp"
     }
 }
