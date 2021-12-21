@@ -1,10 +1,10 @@
 # Details
 
-Date : 2021-12-21 17:37:14
+Date : 2021-12-21 17:39:43
 
 Directory d:\VSCodeCppProject
 
-Total : 41 files,  1729 codes, 75 comments, 247 blanks, all 2051 lines
+Total : 41 files,  1766 codes, 75 comments, 248 blanks, all 2089 lines
 
 [summary](results.md)
 
@@ -50,7 +50,7 @@ Total : 41 files,  1729 codes, 75 comments, 247 blanks, all 2051 lines
 | [LeetCodeProject/isPalindrome/officialisPalindrome.cpp](/LeetCodeProject/isPalindrome/officialisPalindrome.cpp) | C++ | 32 | 10 | 4 | 46 |
 | [LeetCodeProject/reverseInt/REDEME.md](/LeetCodeProject/reverseInt/REDEME.md) | Markdown | 48 | 0 | 26 | 74 |
 | [LeetCodeProject/reverseInt/reverseInt.cpp](/LeetCodeProject/reverseInt/reverseInt.cpp) | C++ | 29 | 0 | 4 | 33 |
-| [README.md](/README.md) | Markdown | 116 | 0 | 2 | 118 |
+| [README.md](/README.md) | Markdown | 153 | 0 | 3 | 156 |
 | [helloworld.cpp](/helloworld.cpp) | C++ | 24 | 0 | 3 | 27 |
 
 [summary](results.md)

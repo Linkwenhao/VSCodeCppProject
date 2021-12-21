@@ -1,10 +1,10 @@
 # Summary
 
-Date : 2021-12-21 17:37:14
+Date : 2021-12-21 17:39:43
 
 Directory d:\VSCodeCppProject
 
-Total : 41 files,  1729 codes, 75 comments, 247 blanks, all 2051 lines
+Total : 41 files,  1766 codes, 75 comments, 248 blanks, all 2089 lines
 
 [details](details.md)
 
@@ -13,12 +13,12 @@ Total : 41 files,  1729 codes, 75 comments, 247 blanks, all 2051 lines
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | C++ | 27 | 1,295 | 74 | 194 | 1,563 |
 | C | 12 | 270 | 1 | 25 | 296 |
-| Markdown | 2 | 164 | 0 | 28 | 192 |
+| Markdown | 2 | 201 | 0 | 29 | 230 |
 
 ## Directories
 | path | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| . | 41 | 1,729 | 75 | 247 | 2,051 |
+| . | 41 | 1,766 | 75 | 248 | 2,089 |
 | CProject | 12 | 270 | 1 | 25 | 296 |
 | CProject\ASCIIone | 1 | 13 | 0 | 1 | 14 |
 | CProject\Arithmetic | 1 | 23 | 0 | 2 | 25 |
