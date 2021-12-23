@@ -30,10 +30,10 @@ int main()
     {
         scanf("%d", &nums[i]); //注意取地址符 &，不要遗忘哦
     }
-    int *afterSort = Bubble(nums, 3);
+    Bubble(nums, 3);
     for (int i = 0; i < 3; i++)
     {
-        printf("%d ", *(afterSort + i));
+        printf("%d ", *(nums + i));
     }
     return 0;
 }
