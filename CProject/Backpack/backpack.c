@@ -32,15 +32,15 @@ void Sort(float w[], float p[])
 }
 
 //修改if中的条件，使得冒泡排序后为大到小排序
-void sortValueandMore(float *value, float *w, float *p)
+void sortValueandMore(float *value, float *w, float *p, int len)
 {
     int flag;
     do
     {
         flag = 0;
-        for (size_t i = 0; i < N - 1; i++)
+        for (size_t i = 0; i < len - 1; i++)
         {
-            for (size_t j = 0; j < N - 1 - i; j++)
+            for (size_t j = 0; j < len - 1 - i; j++)
             {
                 if (value[j] < value[j + 1])
                 {
@@ -79,7 +79,8 @@ void fractional_knapsack(float *w, float *p, float *result, float W)
     {
         value[i] = p[i] / w[i]; //计算收益
     }
-    sortValueandMore(value, w, p);
+    int len = sizeof(value) / sizeof(float);
+    sortValueandMore(value, w, p, len);
     // Sort(w, p);
     while (W > 0) //当容量大于0
     {
